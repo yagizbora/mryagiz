@@ -1,0 +1,38 @@
+/*Skills list css*/
+
+
+
+
+/* Description Css*/
+.Description {
+
+
+    h1 {
+        color: red;
+    }
+
+}
+
+
+.Skills {}
+
+.Python {
+    max-width: 100px;
+    max-height: 100px;
+    float: right;
+    padding: 0 0 10px 10px;
+}
+
+.SQL {
+    max-width: 100px;
+    max-height: 100px;
+    float: right;
+    padding: 0 0 10px 10px;
+}
+
+.HTML {
+    max-width: 100px;
+    max-height: 100px;
+    float: right;
+    padding: 0 0 10px 10px;
+}
